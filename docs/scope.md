@@ -7,7 +7,7 @@ Here's the scope of the player:
  - As a user, I want to play selected clip
  - As a user, I want to fast-forward the video
  - As a user, I want to stop playback
- - As a user, I want to change audio volume, mute/umnute volume
+ - As a user, I want to change audio volume, mute/unmute volume
  - As a user, I want to change resolution of the video playback
  - As a user, I want to switch between HLS and MPEG-DASH video assets.
 
