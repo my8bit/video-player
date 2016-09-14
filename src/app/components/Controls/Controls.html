@@ -1,0 +1,6 @@
+<form class="controls">
+  <button id="play"         ng-click="$ctrl.play()">&#9654;</button>
+  <button id="fast-forward" ng-click="$ctrl.fastForward()">&#9654;&#9654;</button>
+  <button id="stop"         ng-click="$ctrl.stop()">&#9724;</button>
+  <input  id="volumebar"    ng-change="$ctrl.volumeChanged()" ng-model="$ctrl.volume" type="range" class="volumebar" value="1" min="0" max="1" step=".01">
+</form>
